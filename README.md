@@ -1,4 +1,4 @@
-### <img align="" heigh="30" width="40" src="https://gateway.pinata.cloud/ipfs/QmTvnjgRYJo3ardbuk6uX9mEvTaExHvDnAcXeghW8bW7oi"> Hi there, Hello World!
+### <img align="" heigh="30" width="40" src="https://gateway.pinata.cloud/ipfs/QmTvnjgRYJo3ardbuk6uX9mEvTaExHvDnAcXeghW8bW7oi"> Hello, World!
 `I'm Jritoshinkmt [Crypto Enthusiast/ NFT Promoter/ Human]`
 
 ###### _**Contact Me:**_
