@@ -1,3 +1,11 @@
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/802819019631099934) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jritoshinkmt) 
+
+[![](https://visitcount.itsvg.in/api?id=jritoshinkmt&icon=8&color=12)](https://visitcount.itsvg.in)
+
+
+
 ### <img align="" heigh="30" width="40" src="https://gateway.pinata.cloud/ipfs/QmTvnjgRYJo3ardbuk6uX9mEvTaExHvDnAcXeghW8bW7oi"> Hello, World! 
 `I'm Jritoshinkmt [Crypto Enthusiast/Promoter/Human]. GITM. I do what I want, I am Free & Teach for free. You're Welcome.`
 
