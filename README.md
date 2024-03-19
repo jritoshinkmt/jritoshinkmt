@@ -3,6 +3,4 @@ Hello, world! I’m **Jritoshinkmt**, but you can call me **Shin**. With a backg
 
 I’m just starting out, but I’m excited about the possibilities. Let’s connect and grow together!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jritoshinkmt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/https://discordapp.com/users/802819019631099934)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/jritoshinkmt)
-
-[![](https://visitcount.itsvg.in/api?id=jritoshinkmt&icon=8&color=12)](https://visitcount.itsvg.in)
+[![Discord Presence](https://lanyard.cnrad.dev/api/802819019631099934?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/802819019631099934)
