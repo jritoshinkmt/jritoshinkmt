@@ -14,3 +14,8 @@ I’m just starting out, but I’m excited about the possibilities. Let’s conn
 ![](https://komarev.com/ghpvc/?username=jritoshinkmt&color=525CEB)
 
 </div>
+
+### My Experiences
+| Role | Community | Date Started |
+|----------|---------------------|---------------|
+| Moderator | <a href="https://discord.gg/smartlayer" target="_blank" rel="nofollow"> <img src="sln.png" alt="none"> </a> | Aug 2023 | 
