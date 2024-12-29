@@ -1,4 +1,4 @@
-I’m just starting out, but I’m excited about the possibilities. Let’s connect and grow together!
+I’m just starting out, but I’m excited about the possibilities. Let’s connect!
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/802819019631099934?idleMessage=probably%20doing%20something%20else...)](https://discord.com/users/802819019631099934)
 
