@@ -3,7 +3,7 @@
 <p align="center">welcome to my github profile, nothing to see here :3</p>
 
 <div>
-  <div align="center">
+  <div align="left">
     <img src="/lain.gif" alt="lain" align="right"/>
   </div>
 </div>
