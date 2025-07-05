@@ -1,20 +1,20 @@
-
-<h1 align="center">hi, i'm <a href="https://yuna0x0.com">shin</a>!</h1>
+<h1 align="center">hi, i'm <a href="https://github.com/sudo-shin">shin</a>!</h1>
 <p align="center">welcome to my github profile, nothing to see here :3</p>
 
 <div>
-  <div align="right">
-    <img src="/lain.gif" alt="lain" align="right"/>
+  <div align="center">
+    <img src="/lain.gif" alt="lain" align="right" width="400"/>
   </div>
 </div>
-<div align="left">
-  <a align="center">
+
+<div align="center">
+  <a>
     <img src="https://lanyard.kyrie25.dev/api/802819019631099934?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.2)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true&idleMessage=probably%20doing%20something%20else..." />
   </a>
 </div>
 
-<div align="left">
-  <p align="center"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="angular"/> <img src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white" alt="assembly"/> <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" alt="bash"/> <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white" alt="bootstrap"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="css3"/> 
+<div align="center">
+  <p><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="angular"/> <img src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white" alt="assembly"/> <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" alt="bash"/> <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white" alt="bootstrap"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="css3"/> 
   <br>
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="django"/> <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="expressjs"/> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" alt="flutter"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="javaScript" /> 
   <br>
